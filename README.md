@@ -1,7 +1,6 @@
-## Hi!  
-## I am Sakib Ahamed Shahon
+## Sakib Ahamed Shahon
 
-I am passionate programmer , bookworm and a techie. I love to work with different technologies and tools. I Love opensource & I believe we all have a responsibility to give back to the community. If you need someone to collaborate with you on your project or just need some help you are always welcome to reach out. And doesn't always have to be about code, whether it's creating documentation , content , tutorials I am always happy to help. 
+Hi! I am a passionate programmer , bookworm and content creator. I love to work with different technologies and tools. I Love opensource & I believe we all have a responsibility to give back to the community. If you need someone to collaborate with you on your project or just need some help you are always welcome to reach out. And doesn't always have to be about code, whether it's creating documentation , content , tutorials I am always happy to help. 
 
 - 🔭 I’m currently working on creating a porfolio for my self using MERN stack and some open source projects.
 - 🌱 I’m currently learning web development and machine learing on kaggle.
