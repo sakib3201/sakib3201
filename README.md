@@ -12,5 +12,5 @@ I am a passionate programmer , bookworm and content creator. I love to work with
 
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula" width = "80%" text-align="center" align-content="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula">
 ---
