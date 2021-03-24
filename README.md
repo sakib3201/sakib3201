@@ -13,5 +13,4 @@ I am a passionate programmer , bookworm and content creator. I love to work with
 
 ---
 ![Sakib3201 GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
