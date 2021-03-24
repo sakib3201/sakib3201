@@ -7,5 +7,5 @@ I am a passionate programmer , bookworm and content creator. I love to work with
 - 👯 I’m looking to collaborate on open source projects and content creation.
 - 🤔 I’m looking for help with increasing code readability and testing. 
 - 💬 Ask me about my own projects , open source contributions and contents I have created.
-- 📫 How to reach me: reach me on facebook [sakib shahon](https://www.facebook.com/sakib.shahon) , twitter or send an email at sakib3201@gmail.com 
-- ⚡ Fun fact: I am a bit of bibliophile & I write fictions from time to time.
+- 📫 How to reach me: reach me on [Facebook](https://www.facebook.com/sakib.shahon) , [twitter](https://twitter.com/SakibShahon) or send an email at sakib3201@gmail.com 
+- ⚡ Fun fact: I am a total bibliophile & I write fictions from time to time.
