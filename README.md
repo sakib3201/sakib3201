@@ -14,5 +14,5 @@ I am a passionate programmer , bookworm and content creator. I love to work with
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula" text-align="center">
 ---
