@@ -14,4 +14,4 @@ I am a passionate programmer , bookworm and content creator. I love to work with
 ---
 ![Sakib3201 GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula)
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=sakib3201)
+![trophy](https://github-profile-trophy.vercel.app/?username=sakib3201&theme=dracula)
