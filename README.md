@@ -12,7 +12,6 @@ I am a passionate programmer , bookworm and aspiring developer. I love to work w
 - 🏆 two times regional champion of **NASA space apps** hackathon as part of team **jkkniu techhub**. 
 
 ---
-![Sakib3201 GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib3201&show_icons=true&theme=dracula)
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=sakib3201&theme=dracula)
 ---
