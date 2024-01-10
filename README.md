@@ -8,7 +8,8 @@
 
 -----
 
-> Great code is like magic , ordinary people gets astonished by its effects. But only other wizards understands its true depth. --- Sakib Ahamed Shahon
+> Great code is like magic , ordinary people gets astonished by its effects. But only other wizards understands its true depth.
+> --- Sakib Ahamed Shahon
 
 👋 Greetings, fellow sentient beings! I'm Sakib Shahon, your friendly neighborhood web developer by day, and a poet who speaks fluent binary by night. When I'm not debugging the matrix, you'll find me debating the philosophical nuances of tabs vs. spaces over a refreshing cup of python,php or Js.
 
