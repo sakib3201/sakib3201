@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-  <img src="software engineer (Web & ML).png">
+  <img src="software engineer (Web & ML).png" style="width: 100%;">
 </div>
 <h2 align="center"> Hello! I'm Sakib Ahamed Shahon</h2>
 
