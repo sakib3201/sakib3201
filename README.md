@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width: 100%;">
   <img src="software engineer (Web & ML).png">
 </div>
 <h2 align="center"> Hello! I'm Sakib Ahamed Shahon</h2>
