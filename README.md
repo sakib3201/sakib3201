@@ -1,12 +1,14 @@
 <div align="center" style="width: 100%;">
   <img src="software engineer (Web & ML).png">
 </div>
+
+---
+
 <h2 align="center"> Hello! I'm Sakib Ahamed Shahon</h2>
+
 -----
 
 <h3 align="center"> Unleashing dreams with power of code</h2>
-
------
 
 👋 Greetings, fellow sentient beings! I'm Sakib Shahon, your friendly neighborhood web developer by day, and a poet who speaks fluent binary by night. When I'm not debugging the matrix, you'll find me debating the philosophical nuances of tabs vs. spaces over a refreshing cup of python,php or Js.
 
