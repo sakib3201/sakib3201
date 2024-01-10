@@ -2,9 +2,12 @@
   <img src="software engineer (Web & ML).png">
 </div>
 <h2 align="center"> Hello! I'm Sakib Ahamed Shahon</h2>
----
+-----
+
 <h3 align="center"> Unleashing dreams with power of code</h2>
----
+
+-----
+
 👋 Greetings, fellow sentient beings! I'm Sakib Shahon, your friendly neighborhood web developer by day, and a poet who speaks fluent binary by night. When I'm not debugging the matrix, you'll find me debating the philosophical nuances of tabs vs. spaces over a refreshing cup of python,php or Js.
 
 🌱 My quest for programming mastery is akin to a grand RPG questline. I'm leveling up my skills in Laravel and MERN, acquiring arcane knowledge in system design, and slaying the dreaded dragons of spaghetti code with my enchanted keyboard, 'Excalicode.'
