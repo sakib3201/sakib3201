@@ -10,7 +10,7 @@
 
 > "Great code is like magic , ordinary people gets astonished by its effects. But only other wizards understands its true depth." - Sakib Ahamed Shahon
 
-I am "can do" software engineer with a passion for clean, efficient code and a strong foundation in web technologies. Seeking opportunities to contribute to innovative projects and collaborate with talented teams. I also love to work with machine learning , data analytics and enjoy helping business grow their revenue or help people solve their day to day problems through developing user centric software.
+I am a "can do" software engineer with a passion for clean, efficient code and a strong foundation in web technologies. Seeking opportunities to contribute to innovative projects and collaborate with talented teams. I also love to work with machine learning , data analytics and enjoy helping business grow their revenue or help people solve their day to day problems through developing user centric software.
 
 **Skills & Technologies:**
 
