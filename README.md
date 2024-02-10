@@ -10,22 +10,37 @@
 
 > "Great code is like magic , ordinary people gets astonished by its effects. But only other wizards understands its true depth." - Sakib Ahamed Shahon
 
-👋 Greetings, fellow sentient beings! I'm Sakib Shahon, your friendly neighborhood software engineer. When I'm not debugging the matrix, you'll find me debating the philosophical nuances of tabs vs. spaces over a refreshing cup of python,php or Js. (Or googling something about a bug in the code base)
+I am "can do" software engineer with a passion for clean, efficient code and a strong foundation in web technologies. Seeking opportunities to contribute to innovative projects and collaborate with talented teams. I also love to work with machine learning , data analytics and enjoy helping business grow their revenue or help people solve their day to day problems through developing user centric software.
 
-🌱 My quest for programming mastery is akin to a grand RPG questline. I'm leveling up my skills in Laravel and MERN, acquiring arcane knowledge in system design, and slaying the dreaded dragons of spaghetti code with my enchanted keyboard, 'Excalicode.'
+**Skills & Technologies:**
 
-🔭 As a software engineer working with web technologies, I am proficiently working with the Laravel framework, collaborating with a dedicated team to implement design patterns and leverage open-source technologies for innovative solutions
+* **Frontend:** React.js , Tailwind CSS, Bootstrap
+* **Backend:** Laravel Framework, Node.js, Express.js
+* **Machine learning:** Pandas, Sci-kit, TensorFlow, nltk, Scipy
+* **Data visualization:** Seaborn, Matplotlib, PowerBI
+* **Web Scraping:** Selenium & Beautiful Soup 
 
-🤝 Seeking Guild Members & Code Wizards:
-- Open to forming alliances in the open-source realm or co-authoring the next epic software saga. If you're questing for a code companion or a collaborator in content creation, send a signal flare—or an email!
+Other technical skills:
+* **System Design:** Proficient in designing and implementing scalable and maintainable solutions.
+* **Open Source:** Contributor to open-source projects and advocate for collaborative development.
 
-🔍 Puzzles & Prophecies:
-- In search of the legendary scroll that reveals the secrets of code readability and testing alchemy.
-- Always up for an epic quest log discussion about my coding adventures, open-source lore, or the latest verses I've penned in my poetic codebook.
+**Experience:**
 
-📬 Send Your Messages via Pigeon Post:
-- **Social Scrolls**: [Facebook](https://www.facebook.com/sakib.shahon), [Twitter](https://twitter.com/SakibShahon)
-- **Electronic Owls**: sakib3201@gmail.com
+* **Web Developer:** Implemented design patterns and leveraged open-source technologies to build innovative web applications using Laravel.
+* **Teamwork:** Worked effectively within a dedicated team to achieve project goals and deadlines.
+* **Hackathon Success:** Led a team to victory at the NASA Space Apps Hackathon (twice!), demonstrating problem-solving abilities and leadership skills.
+
+**Looking for:**
+
+* Opportunities to contribute my skills and experience to challenging and impactful projects.
+* Collaborative environments where I can learn and grow alongside talented individuals.
+* Open-source projects where I can share my knowledge and contribute to the community.
+* Content creation collaboration for creating written / video format content on anything tech related.
+  
+📬 Contact:
+
+- **Social**: [Facebook](https://www.facebook.com/sakib.shahon), [Twitter](https://twitter.com/SakibShahon)
+- **Email**: sakib3201@gmail.com
 
 🌟 Legendary Loot & Quest Achievements:
 - "In the binary realms where code meets verse, the true heroes emerge." - *Sakib Shahon, the Codemancer*
