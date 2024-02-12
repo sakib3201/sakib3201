@@ -29,7 +29,7 @@ Other technical skills:
 
 * **Web Developer:** Implemented design patterns and leveraged open-source technologies to build innovative web applications using Laravel.
 * **Teamwork:** Worked effectively within a dedicated team to achieve project goals and deadlines.
-* **Hackathon Success:** Led a team to victory at the NASA Space Apps Hackathon (twice!), demonstrating problem-solving abilities and leadership skills.
+* **Hackathon Success:** Victorious at the NASA Space Apps Hackathon (twice!), demonstrating problem-solving abilities and leadership skills.
 
 **Looking for:**
 
