@@ -43,9 +43,8 @@ Other technical skills:
 - **Social**: [Facebook](https://www.facebook.com/sakib.shahon), [Twitter](https://twitter.com/SakibShahon)
 - **Email**: sakib3201@gmail.com
 
-🌟 Legendary Loot & Quest Achievements:
-- "In the binary realms where code meets verse, the true heroes emerge." - *Sakib Shahon, the Codemancer*
-- Triumphed as a two-time regional champion at the **NASA Space Apps Hackathon**, leading the valiant knights of the **jkkniu techhub** into battle.
+🌟 Achievements:
+- Triumphed as a two-time regional champion at the **NASA Space Apps Hackathon**, as part of the team **jkkniu techhub**.
 
 
 ---
