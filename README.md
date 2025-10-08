@@ -96,11 +96,11 @@ You can see more in my pinned repos on GitHub. :contentReference[oaicite:4]{inde
 
 | Platform | Link |
 |---|---|
-| GitHub | [github.com/sakib3201](https://github.com/sakib3201) :contentReference[oaicite:7]{index=7} |
-| DEV | [dev.to/sakib3201](https://dev.to/sakib3201) :contentReference[oaicite:8]{index=8} |
-| Personal Website | [sakibshahon.netlify.app](https://sakibshahon.netlify.app) :contentReference[oaicite:9]{index=9} |
-| LinkedIn | (add your LinkedIn URL) |
-| Twitter / X | (add your X / Twitter link) |
+| GitHub | [github.com/sakib3201](https://github.com/sakib3201) |
+| DEV | [dev.to/sakib3201](https://dev.to/sakib3201) |
+| Personal Website | [sakibshahon.netlify.app](https://sakibshahon.netlify.app) |
+| LinkedIn | ([LinkedIn Profile](https://www.linkedin.com/in/sakib-shahon/)) |
+| Twitter / X | ([add your X / Twitter link](https://x.com/SakibShahon)) |
 
 ---
 
