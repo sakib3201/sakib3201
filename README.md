@@ -20,6 +20,7 @@ I am a "can do" software engineer with a passion for clean, efficient code and a
 * **Machine learning:** Pandas, Sci-kit, TensorFlow, nltk, Scipy
 * **Data visualization:** Seaborn, Matplotlib, PowerBI
 * **Web Scraping:** Selenium & Beautiful Soup 
+* **Wordpress Plugin:** With php and React.js
 
 Other technical skills:
 * **System Design:** Proficient in designing and implementing scalable and maintainable solutions.
