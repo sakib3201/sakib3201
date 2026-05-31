@@ -12,95 +12,76 @@
 
 ---
 
-## 🚀 About Me
+# Sakib Ahamed Shahon
 
-I’m a full-stack software engineer specializing in **web development**, **data analytics**, and **machine learning**. I believe in building user-centric, performant, and secure software that solves real problems.  
-I’m always looking for challenging projects, open source contributions, and opportunities to collaborate or mentor.
+**Software Engineer at Arraytics** — AI-Native Features · Unified LLM Infrastructure · Full-Stack Delivery
 
-- 🌍 Based in Dhaka, Bangladesh  
-- 🏛️ Studied at Jatiya Kabi Kazi Nazrul Islam University  
-- 📫 Reach me at: **sakib3201@gmail.com**  
-- 🔗 Website / Portfolio: [sakibshahon.netlify.app](https://sakibshahon.netlify.app) :contentReference[oaicite:0]{index=0}  
-- 🧠 Active writer on DEV community: “Fullstack web dev, ML, coding contests” :contentReference[oaicite:1]{index=1}
+📍 Gazipur, Bangladesh | 📧 sakib3201@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sakib-shahon/)
+🌐 [Portfolio](https://sakibshahon.netlify.app) | 📝 [DEV Blog](https://dev.to/sakib3201)
 
 ---
 
-## 🛠️ Skills & Technologies
+## What I Build
 
-| Domain | Tools & Technologies |
-|---|---|
-| **Frontend** | React.js, Tailwind CSS, Bootstrap |
-| **Backend / API** | PHP (Laravel), Node.js, Express.js |
-| **Databases** | MySQL, MongoDB, SQL |
-| **Machine Learning / Data** | Python, pandas, scikit-learn, TensorFlow, NLTK |
-| **Data Visualization** | Matplotlib, Seaborn, Power BI |
-| **Web Scraping / Automation** | Selenium, BeautifulSoup |
-| **Other** | System design, testing, DevOps basics, WordPress plugin dev (PHP + React) |
+I ship AI-native features and backend systems that scale in production — not demos that break at 100 users.
 
----
+Currently engineering the **aisentic AI plugin ecosystem** (20,000+ active WordPress installations) and a **unified AI backend** at Arraytics. I cut AI integration costs by 35% and sped up feature delivery by 2x using harness engineering on legacy codebases.
 
-## 💼 Professional Experience
-**Software Engineer — Arraytics**
-_Current_
-- Develop wordpress plugins from scratch like Booktics, Pointics.
-- Mainting existing plugins and add integrations like for WP timetics and Eventin.
+Before this, I shipped high-value plugins and REST APIs at **Incevio** for zCart (1,000+ e-commerce platforms), adding $500 in value per sale. Earlier, I led teams at **Data Sapience Lab** building ML-powered apps and cut server costs by 34%.
 
-**Full Stack Web Developer — Incev!o**  
-_Current_  
-- Develop and maintain backend APIs, integrate third-party services (e.g. payment gateways)  
-- Build and maintain frontend features and UI/UX  
-- Handle database design, migrations, query optimization, and deployments  
-- Troubleshoot client issues, deliver custom features  
+### Technical Stack (2026)
 
-**Software Engineer — Data Sapience Lab**  
-_Previous_  
-- Delivered ML / data analytics solutions to clients  
-- Developed web applications for small and medium businesses  
-- Mentored junior developers and led small teams (3–5 members)  
-- Technologies used: React, Node.js, Python, TensorFlow, MongoDB :contentReference[oaicite:2]{index=2}  
+| Domain | Technologies |
+|--------|-------------|
+| Backend | Laravel, Node.js, Express.js, FastAPI, REST API Design, WebSocket Streaming |
+| Frontend | React.js, Next.js, TypeScript, Tailwind CSS |
+| AI & LLMs | LLM Integration, RAG Pipelines, Spec-Driven Development, Harness Engineering, SLM Fine-Tuning, MCP |
+| Databases | PostgreSQL, MySQL, MongoDB — Query Optimization, Indexing, Caching |
+| DevOps & Observability | Docker, GitHub Actions, CI/CD, Prometheus, Grafana, LangSmith |
+| Testing | PhpUnit, Dusk, Regression Testing |
+| Architecture | Microservices, Event-Driven, Multi-Tenant SaaS, API Gateway Design |
 
----
+### Production Impact
 
-## 📂 Featured Projects
+| Metric | Result | Context |
+|--------|--------|---------|
+| 🚀 AI integration cost | **-35%** | Unified backend serving LLM features across all products |
+| ⚡ Feature delivery speed | **2x** | Harness engineering on legacy Laravel codebases |
+| 🏎️ Page load time | **-50%** | WPTimetics plugin (0.45s gain for 20K+ users) |
+| 📊 API response time | **-14%** | WPCafe analytics (0.24s per call via caching + query optimization) |
+| 💰 Product value | **+$500/sale** | zCart plugins with payment, shipping, Shopify integrations |
+| 🧪 Dev speed | **+23%** | Automated testing with PhpUnit + Dusk |
+| ☁️ Server costs | **-34%** | Multi-threaded data pipelines at Data Sapience Lab |
 
-Here are some of my notable projects (check the repo pinned section for more):
+### Featured Projects
 
-- **Let’s Ludo** — A multiplayer online Ludo game with real-time interaction, animations, and UI/UX polish. :contentReference[oaicite:3]{index=3}  
-- **Amar Shop** — E-commerce platform for small / medium businesses, with inventory, sales analytics, and customer management (built in PHP / Laravel)  
-- **eVoting (Blockchain + Face Recognition)** — Secure, decentralized voting application integrating facial recognition  
-- **ICTBJ Conference Website** — Official site for a university research conference with submission and registration features  
-- **Other web apps / plugins** — WordPress plugin work, data dashboards, automations
+| Project | Stack | What It Does | Key Numbers |
+|---------|-------|--------------|-------------|
+| [Find My Race Pace](https://www.findracepace.com) | React, Node.js, Python, ML | Training plans & race analytics for runners | +18% retention, +25% satisfaction |
+| [aisentic AI Backend](https://timetics.ai) | Laravel, Node.js, Python, Vector DB, Redis | Unified LLM infrastructure for WordPress plugin ecosystem | 20K+ active installs, -35% integration cost |
+| [Let's Ludo](https://github.com/sakib3201/lets-ludo) | JavaScript, Socket.io, Canvas | Real-time multiplayer game with animations & emotes | Open source, 100+ GitHub interactions |
+| [eVoting Blockchain](https://github.com/sakib3201/e-voting-blockchain) | MERN, Solidity, Python, OpenCV | Decentralized voting with facial recognition auth | Security + blockchain demonstration |
+| ICTBJ Conference | React, Node.js, MySQL | Official conference site for JKKNIU | Paper submission, registration, admin |
 
-You can see more in my pinned repos on GitHub. :contentReference[oaicite:4]{index=4}
+### What I'm Looking For (2026)
 
----
+I'm targeting **AI Engineering**, **Backend Engineering**, and **Full Stack** roles where I can:
+- Design LLM infrastructure that ships to real users at scale
+- Own backend architecture decisions from database to API to observability
+- Build full-stack products with AI as core architecture, not bolt-on features
 
-## 🏆 Achievements & Contests
+I work best in teams that value end-to-end ownership, fast iteration, and production discipline over demo culture.
 
-- 2x Regional Champion — NASA Space Apps Hackathon  
-- Competitor on Codeforces — rating around **1069** (max 1388) :contentReference[oaicite:5]{index=5}  
-- Published articles on software practices and career in DEV community :contentReference[oaicite:6]{index=6}  
+📬 **Reach me:** sakib3201@gmail.com | [LinkedIn](https://www.linkedin.com/in/sakib-shahon/)
 
 ---
 
-## 🎯 What I’m Looking For
+## Competition & Writing
 
-- Challenging projects where I can deliver real impact  
-- Teams with collaborative, learning culture  
-- Open-source initiatives to contribute to  
-- Content creation partnerships (blogs, video tutorials, tech talks)
-
----
-
-## 📬 Connect With Me
-
-| Platform | Link |
-|---|---|
-| GitHub | [github.com/sakib3201](https://github.com/sakib3201) |
-| DEV | [dev.to/sakib3201](https://dev.to/sakib3201) |
-| Personal Website | [sakibshahon.netlify.app](https://sakibshahon.netlify.app) |
-| LinkedIn | ([LinkedIn Profile](https://www.linkedin.com/in/sakib-shahon/)) |
-| Twitter / X | ([add your X / Twitter link](https://x.com/SakibShahon)) |
+- 🏆 **ICPC 2023** — Mymensingh Division Champion (top 4% nationally)
+- 🚀 **NASA Space Apps Challenge** — 2019 Regional Champion, 2020 2nd Runner-up
+- ✍️ **15+ tutorials** authored on [LightOJ](https://lightoj.com)
+- 📝 Active writer on [DEV.to](https://dev.to/sakib3201)
 
 ---
 
